@@ -69,7 +69,7 @@ parso==0.5.1
 pathtools==0.1.2
 pefile==2019.4.18
 pep8==1.7.1
-Pillow==6.2.1
+Pillow==8.2.0
 pipreqs==0.4.9
 pluggy==0.13.1
 py==1.8.0
